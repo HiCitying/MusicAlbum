@@ -1,0 +1,1 @@
+arm-linux-gcc Main.c MusicStruct.c ChangeMusic.c TouchScreen.c CBackGr.c GetIndex.c StopMusic.c ThreadFunction.c -lpthread KillThread.c ClearScreen.c -I ./ -o Main
